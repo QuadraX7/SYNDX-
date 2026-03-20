@@ -2,8 +2,7 @@
 	rbimgui-2
 	version 1.2
 	by Singularity
-        https://v3rmillion.net/member.php?action=profile&uid=947830
-        Singularity#5490
+      & modified by SYNDX
 --]]
 
 repeat wait() until game:GetService("Players").LocalPlayer
